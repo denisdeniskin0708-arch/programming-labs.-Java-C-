@@ -1,0 +1,9 @@
+.idea/
+_ReSharper.*/
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+__pycache__/
+*.exe
+*.class
